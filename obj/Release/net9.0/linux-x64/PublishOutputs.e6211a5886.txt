@@ -1,0 +1,2 @@
+/home/sudo/Documents/Projects/binary/publish/binary.pdb
+/home/sudo/Documents/Projects/binary/publish/binary

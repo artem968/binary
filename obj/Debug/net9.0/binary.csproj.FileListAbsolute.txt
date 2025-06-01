@@ -1,0 +1,14 @@
+/home/sudo/Documents/Projects/binary/bin/Debug/net9.0/binary
+/home/sudo/Documents/Projects/binary/bin/Debug/net9.0/binary.deps.json
+/home/sudo/Documents/Projects/binary/bin/Debug/net9.0/binary.runtimeconfig.json
+/home/sudo/Documents/Projects/binary/bin/Debug/net9.0/binary.dll
+/home/sudo/Documents/Projects/binary/bin/Debug/net9.0/binary.pdb
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.AssemblyInfoInputs.cache
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.AssemblyInfo.cs
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.csproj.CoreCompileInputs.cache
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.dll
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/refint/binary.dll
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.pdb
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/binary.genruntimeconfig.cache
+/home/sudo/Documents/Projects/binary/obj/Debug/net9.0/ref/binary.dll
